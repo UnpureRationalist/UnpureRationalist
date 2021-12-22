@@ -15,5 +15,5 @@ My GitHub stats:
 
 My Top Langs:
 
-<div align=center>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnpureRationalist&theme=tokyonight&hide=javascript,html,css,c" />  <div>
+<div align=center>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnpureRationalist&layout=compact&langs_count=6&theme=tokyonight&hide=html,css" />  <div>
 
