@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**UnpureRationalist/UnpureRationalist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying at NJUST, majoring in Computer Science and Technology.
+- 🌱 I’m currently learning Deep Learning & Computer Vision.
+- 🚀 I use daily: ![C++](https://img.shields.io/badge/-c++-8fcfd1?style=plastic&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+- 📫 How to reach me: njfqarcsin2@gmail.com
+- ⚡ Fun fact: My bolg address is https://arcsin2.cloud, although I usually write articles on the WeChat subscription account (account: coder_learning_road).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My GitHub stats:
+
+![My GitHub stats:](https://github-readme-stats.vercel.app/api?username=UnpureRationalist&theme=tokyonight&count_private=true&show_icons=true)
+
+My Top Langs:
+
+ [![arcsin2's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnpureRationalist&hide=javascript,html,css)](https://github.com/UnpureRationalist)
