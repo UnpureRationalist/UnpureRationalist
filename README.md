@@ -9,16 +9,11 @@
 
 My GitHub stats:
 
-<div align=center>  <img src="https://github-readme-stats.vercel.app/api?username=UnpureRationalist&theme=tokyonight&count_private=true&show_icons=true" />  <div>
+<div align=center>  <img src="https://github-readme-stats.vercel.app/api?username=UnpureRationalist&theme=tokyonight&count_private=true&show_icons=true" />  </div>
 
 
-
-![My GitHub stats:](https://github-readme-stats.vercel.app/api?username=UnpureRationalist&theme=tokyonight&count_private=true&show_icons=true)
 
 My Top Langs:
 
 <div align=center>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnpureRationalist&hide=javascript,html,css" />  <div>
 
-
-
- [![arcsin2's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnpureRationalist&hide=javascript,html,css)](https://github.com/UnpureRationalist)
