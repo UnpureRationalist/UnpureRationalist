@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hi there 👋
 
 
 - 🔭 I’m currently studying at NJUST, majoring in Computer Science and Technology.
@@ -15,5 +15,5 @@ My GitHub stats:
 
 My Top Langs:
 
-<div align=center>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnpureRationalist&layout=compact&langs_count=6&theme=tokyonight&hide=html,css,assembly,js" />  <div>
+<div align=center>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnpureRationalist&layout=compact&langs_count=6&theme=tokyonight&hide=html,css,assembly,javascript" />  <div>
 
